@@ -1,3 +1,3 @@
 # Odin HTML Project - Recipes
 
-###HTML foundation project
+### HTML foundation project
